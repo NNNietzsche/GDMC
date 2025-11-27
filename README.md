@@ -9,6 +9,14 @@
 适合用于复制建筑、备份结构或进行结构编辑实验。
 
 ---
+<img width="1440" height="900" alt="scan" src="https://github.com/user-attachments/assets/3cd51d41-4065-4161-9a6f-d395fb52a730" />
+
+
+
+
+
+
+---
 
 ## 环境依赖
 
